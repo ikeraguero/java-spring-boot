@@ -1,10 +1,10 @@
-package com.iker.demo;
+package com.ikeraguero.myapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class MyappApplicationTests {
 
 	@Test
 	void contextLoads() {
